@@ -38,9 +38,9 @@ Each image is classified into one of 38 disease categories or as healthy.
 
 ## 📊 Results
 
-- **Validation Accuracy**: 98.7%
-- **Test Accuracy**: 99.2%
-- **Training Time**: Approximately 2 hours on a Tesla T4 GPU
+- **Validation Accuracy**: 
+- **Test Accuracy**: 
+- **Training Time**: Approximately 4 hours on a Tesla T4 GPU
 
 ## 🚀 Usage
 
@@ -71,26 +71,6 @@ Prediction: Tomato_Late_blight
 Confidence: 99.8%
 ```
 
-## 💻 Code Structure
-
-```
-plant-disease-classification/
-├── models/                  # Folder for saved models
-│   └── plant_disease_model_checkpoint.pth
-├── notebooks/               # Jupyter notebooks
-│   └── plant_disease_classification.ipynb
-├── scripts/                 # Python scripts
-│   ├── train.py             # Training script
-│   └── predict.py           # Prediction script
-├── data/                    # Data handling scripts
-│   └── data_loader.py
-├── utils/                   # Utility functions
-│   ├── visualization.py
-│   └── metrics.py
-├── requirements.txt         # Dependencies
-├── README.md                # Project documentation
-└── .gitignore               # Git ignore file
-```
 
 ## 🔄 Model Loading
 
@@ -131,7 +111,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
