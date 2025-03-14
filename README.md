@@ -38,9 +38,9 @@ Each image is classified into one of 38 disease categories or as healthy.
 
 ## 📊 Results
 
-- **Validation Accuracy**: 
-- **Test Accuracy**: 
-- **Training Time**: Approximately 4 hours on a Tesla T4 GPU
+- **Validation Accuracy**: 99.89%
+- **Test Accuracy**: 99.78%
+- **Training Time**: Approximately 5 hours on a Tesla T4 GPU (40 epochs)
 
 ## 🚀 Usage
 
@@ -115,6 +115,6 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 ## 🙏 Acknowledgements
 
-- [Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+- [Plant Village Dataset]([https://www.kaggle.com/datasets/snikhilrao/crop-disease-detection-dataset])
 - [PyTorch](https://pytorch.org/)
 - [Kaggle](https://www.kaggle.com/) for providing the computational resources
