@@ -115,6 +115,6 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 ## 🙏 Acknowledgements
 
-- [Plant Village Dataset]([https://www.kaggle.com/datasets/snikhilrao/crop-disease-detection-dataset])
+- [Plant Village Dataset]([https://www.kaggle.com/datasets/snikhilrao/crop-disease-detection-dataset/])
 - [PyTorch](https://pytorch.org/)
 - [Kaggle](https://www.kaggle.com/) for providing the computational resources
